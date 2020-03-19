@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+    <title>无标题页</title>
+    　<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="checkCard.js"></script>
+
+</head>
+<body>
+<script type="text/javascript">
+    function checkid(t_bankno) {
+        var bankno=document.getElementById("t_bankno").value;
+
+        if(bankno == "") {
+            $("#banknoInfo").html("请填写银行卡号");
+            return false;
+        }
+        if(bankno.length > 19) {
+            $("#banknoInfo").html("银行卡号长度必须在16到19之间");
+            return false;
+        }
+        var num = /^\d*$/; //全数字
+        if(!num.exec(bankno)) {
+            $("#banknoInfo").html("银行卡号必须全为数字");
+            return false;
+        }
+        //开头6位
+        var strBin = "10,18,30,35,37,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,58,60,62,65,68,69,84,87,88,94,95,98,99";
+        if(strBin.indexOf(bankno.substring(0, 2)) == -1) {
+            $("#banknoInfo").html("银行卡号开头6位不符合规范");
+            return false;
+        }
+   //     var result =checkCard.validation.bankCardAttribution(bankno);
+    //    console.log(result)
+   //     document.getElementById("show").innerHTML="身份证号合法  尾号为："+result;
+
+    }
+
+</script>
+<input type="text" id="t_bankno" />
+<input type="button" id="btnCheck" value="check" onclick="checkid($('#t_bankno'))" />
+
+<!--<input id="gettext" type="text" size="30" onkeyup="checkid()">-->
+<!--<p id="show"></p><br>-->
+</body>
+</html>

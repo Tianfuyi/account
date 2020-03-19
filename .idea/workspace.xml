@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d91ffc21-f7a7-4287-95b0-a4e17bd92c93" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>544210</find>
+      <find>628236</find>
+      <find>c_cardLengths</find>
+      <find>信</find>
+      <find>中信</find>
+      <find>工商</find>
+      <find>438589</find>
+      <find>620060</find>
+      <find>c_cardLength</find>
+      <find>兴业</find>
+      <find>兴业银行</find>
+      <find>广东</find>
+      <find>发展</find>
+      <find>浦</find>
+      <find>华夏</find>
+      <find>北京</find>
+      <find>上海</find>
+      <find>杭州</find>
+      <find>浦发</find>
+      <find>之间</find>
+      <find>tailFormItemLayout</find>
+      <find>formItemLayout</find>
+      <find>date</find>
+      <find>patternLetters</find>
+      <find>rendomID</find>
+      <find>SelectInput</find>
+      <find>AccountGenerator</find>
+      <find>数字</find>
+      <find>DOm</find>
+      <find>render</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>carBank</replace>
+      <replace>cardLength</replace>
+      <replace>cardBin</replace>
+      <replace>cardsBin</replace>
+      <replace>cardLengths</replace>
+      <replace>cardsBins</replace>
+    </replaceStrings>
+  </component>
+  <component name="ProjectId" id="1ZL81UDA4CsqRwJuwNlgvRVOGra" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>UnterminatedStatementJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557198353586" />
+    <property name="last.edited.regexp" value="12" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2018.2.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\中原消费\项目\测试项目\生成银行卡号\account-generator-master\src" />
+      <recent name="D:\中原消费\项目\测试项目\生成银行卡号\account-generator-master\src\pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\中原消费\项目\测试项目\生成银行卡号\account-generator-master\src\bankCheck" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d91ffc21-f7a7-4287-95b0-a4e17bd92c93" name="Default Changelist" comment="" />
+      <created>1554885534410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554885534410</updated>
+      <workItem from="1554885535871" duration="6324000" />
+      <workItem from="1554945633599" duration="12157000" />
+      <workItem from="1555033107168" duration="348000" />
+      <workItem from="1555301553344" duration="3189000" />
+      <workItem from="1555382906368" duration="5163000" />
+      <workItem from="1555394429633" duration="824000" />
+      <workItem from="1555398595677" duration="11000000" />
+      <workItem from="1555464453091" duration="29411000" />
+      <workItem from="1555549900811" duration="59765000" />
+      <workItem from="1555666891711" duration="4053000" />
+      <workItem from="1555895652522" duration="46775000" />
+      <workItem from="1555999692836" duration="3674000" />
+      <workItem from="1556416012458" duration="4103000" />
+      <workItem from="1556503979985" duration="730000" />
+      <workItem from="1557135430586" duration="8854000" />
+      <workItem from="1584606801955" duration="2462000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
