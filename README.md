@@ -13,4 +13,4 @@ React实现 依赖node.js 本地需预先安装node.js
 本地调试命令：npm install -->npm start -->浏览器 输入 localhost:3000 访问
 
 
-![image](https://github.com/Tianfuyi/account/blob/master/show.png)
+![](https://github.com/Tianfuyi/account/blob/master/show.png)
