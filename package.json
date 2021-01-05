@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "antd": "^3.9.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-plugin-import": "^1.8.0",
     "clipboard": "^2.0.1",
     "luhn-js": "^1.1.1",
